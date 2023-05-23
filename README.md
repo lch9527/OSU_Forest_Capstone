@@ -21,7 +21,7 @@ Documentation regarding supporting documents in order to make progress - https:/
 
 ### How do I get set up? ###
 
-NOTE: Our project partner and stakeholders mentioned above do not want the exact worfklow/code to recreate this project to be disclosed. Hence we will not be submitting a video.
+NOTE: Our project partner and stakeholders mentioned above do not want the exact workflow/code to recreate this project to be disclosed. Hence we will not be submitting a video.
 
 Current compatible versions for template: Latest Engine Version (Template is not kept to as many compatible versions as the plugin itself).
 
