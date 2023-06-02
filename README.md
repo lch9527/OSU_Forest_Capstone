@@ -13,7 +13,7 @@ Below are links the the project background, consisting of the vision statement, 
 * System Architecture: https://drive.google.com/file/d/1oLu5wfG_SIppN9Ka5sXcR6k3V_zubZvT/view?usp=share_link
 
 ### Documentation ###
-FBX Model was not included into project due to size limit for GitHub. This can be downloaded through the Capstone Folder - https://drive.google.com/drive/folders/1PFS3VPSEXscDdQEMNmgmUcog07QUBNoX
+FBX Model was not included into project due to size limit for GitHub. This can be downloaded through the Capstone Folder - 
 
 Documentation regarding attributes of each UI made/planning to make - https://docs.google.com/document/d/1Lw-FXbxrZazIOTHdDP3rDbIxav2emYUJSHzTLsOUiVY/edit
 
