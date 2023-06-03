@@ -13,7 +13,7 @@ Below are links the the project background, consisting of the vision statement, 
 * System Architecture: https://drive.google.com/file/d/1oLu5wfG_SIppN9Ka5sXcR6k3V_zubZvT/view?usp=share_link
 
 ### Documentation ###
-FBX Model was not included into project due to size limit for Github. This can be downloaded through here: https://drive.google.com/drive/folders/1pSsz9ViWHQpF_VXSE-pQvVwlkNdncPAj?usp=sharing
+FBX Model was not included into project due to size limit for Github. This can be downloaded here: https://drive.google.com/drive/folders/1pSsz9ViWHQpF_VXSE-pQvVwlkNdncPAj?usp=sharing
 
 Note: To obtain and use the FBX model, it would require the use of a rar file opener app (such as Winrar).
 
